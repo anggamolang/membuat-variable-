@@ -1,0 +1,11 @@
+# membuat-variable-
+|cara menampilkan data di python
+|definisikan variable(nama,umur,tempat,dsbg)
+~start~
+Nama = "Angga"
+Umur = "18"
+Tempat = "jakarta"
+print (nama) ~dari sini python akan memanggil data yang kamu buat untuk ditampilkan menggunakan kata kunci/variable yang dibuat~
+print (Umur)
+print (Tempat)
+~Selesai~
