@@ -1,0 +1,10 @@
+#berikut fungsi dan tipe data di python
+
+Tipe Data         |               Contoh                   | Penjelasan Fungsi
+Boolean           | True/False                             | Menyatakan Suatu nilai dalam sebuah variable jika True bernilai 1 dan False bernilai 0
+String            | "Ayo belajar python"                   | Menyisip/menyatakan kalimat berupa huruf/angka (tanda itu berupa " ')
+Interger          | 25,35,100 dsbg                         | Menyatakan bilangan bulat
+Float             | 3.14 9.5 dsbg                          | Menyatakan bilangan koma (dalam python koma diganti dengan tanda . untuk membedakan jenis variable angka
+List              | 'abc',123,1.23                         | untaian variable data dan dapat Mengubah Isi variable data 
+Tuple             | 'abc',123,1.23                         | untaian variable data dan tidak dapat Mengubah Isi variable data 
+Dictionary        | {'nama''angga'}                        | untain variable data yang menunjuk suatu nilai variable
