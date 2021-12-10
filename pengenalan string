@@ -1,0 +1,7 @@
+#apa kabar semua sebelumnya kita sudah membahas apa itu variable nah kali kita akan berbicara tentang fungsi string
+#apa itu string ? string berfungsi sebagai penghubung/menyisipkan sebuah variable
+contoh:
+~Start~
+"Nama {},Usia :{}".format("Angga",19) #dalam membuat string semua diawali dengan tanda {}
+print "Nama {},Usia :{}".format("Angga",19)
+`selesai~
