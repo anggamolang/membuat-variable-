@@ -1,0 +1,32 @@
+#casting tipe data dalam python
+print(=======INTERGER======)
+data_int=9;
+print("data = ", data_int, ",type =",type(data_int))     #(Type) perintah ini berfungsi memilah data sesuai fungsi yang diberikan
+data_str   = str(data_int)
+data_float = float(data_int)
+data_bool  = bool(data-int)            # akan false jika JIKA nilai int = 0 dan true bernilai 1
+print("data = ", data_str, ",type =",type(data_str))
+print("data = ", data_float, ",type =",type(data_float))
+print("data = ", data_bool, ",type =",type(data_bool))
+
+print(=======FLOAT=========)
+data_float=9.5;
+print("data = ", data_float, ",type =",type(data_float)) #(Type) perintah ini berfungsi memilah data sesuai fungsi yang diberikan
+data_str   = str(data_float)
+data_int   = int(data_float)     #perintah ini akan membulatkan bilangan kebawah
+data_bool  = bool(data-float)    # akan false jika JIKA nilai int = 0 dan true bernilai 1
+print("data = ", data_str, ",type =",type(data_str))
+print("data = ", data_int, ",type =",type(data_int))
+print("data = ", data_bool, ",type =",type(data_bool))
+
+print(=======BOOLEAN=========)
+data_float=True;
+print("data = ", data_bool, ",type =",type(data_bool)) #(Type) perintah ini berfungsi memilah data sesuai fungsi yang diberikan
+data_str   = str(data_bool)                   #perintah ini akan membulatkan bilangan kebawah
+data_int   = int(data_bool)
+data_float  = float(data-bool)                  # akan false jika JIKA nilai int = 0 dan true bernilai 1
+print("data = ", data_str, ",type =",type(data_str))
+print("data = ", data_int, ",type =",type(data_int))
+print("data = ", data_float, ",type =",type(data_float))
+
+
