@@ -1,0 +1,14 @@
+#cara membuat input data user di python
+
+#Data user dalam bentuk variable (STRING)
+data = input("masukkan data : ") #perintah input bisa diisi dengan bebas sesuai kebutuhan
+print("data =",data,"type =",type(data))
+
+#Data user dalam bentuk angka (int/float)
+angka = int(input("masukkan angka : "))
+angka = float(input("masukkan angka : "))
+print("data =",angka,"type =",type(angka))
+
+#Data user dalam bentuk biner(boolean)~True/False
+biner = bool(int(input("masukkan nilai : ")))
+print("data =",biner,"type =",type(biner))
