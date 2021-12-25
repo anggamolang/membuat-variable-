@@ -31,3 +31,14 @@ print(A,'%',B,'=',hasil)
 hasil = A // B
 print(A,'%',B,'=',hasil)
 
+#Operasi prioritas
+
+#contoh
+x=4
+y=3
+z=2
+hasil = x+y*z #tanpa kurung perhitungan normal
+print(x,'+'y,'*',z,'=',hasil) 
+
+hasil = (x+y)*z #jika ada kurung perhitungan diprioritas
+print('('x,'+'y'),'*',z,'=',hasil) 
