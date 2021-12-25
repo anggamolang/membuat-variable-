@@ -1,0 +1,33 @@
+#Perhitungan Arimatika di Python
+
+A=10
+B=2
+
+#Operasi Pertambahan (+)
+hasil = A + B
+print(A,'+',B,'=',hasil)
+
+#Operasi pengurangan (-)
+hasil = A - B
+print(A,'-',B,'=',hasil)
+
+#Operasi perkalian (*)  untuk lambang kali (X) diganti dengan bintang (*)
+hasil = A * B
+print(A,'*',B,'=',hasil)
+
+#Operasi Pembagian (/) untuk lambang bagi (:) diganti dengan garis miring (/)
+hasil = A / B
+print(A,'/',B,'=',hasil)
+
+#Operasi perpangkatan (**)
+hasil = A ** B
+print(A,'**',B,'=',hasil)
+
+#Operasi Modulus (%)
+hasil = A % B
+print(A,'%',B,'=',hasil)
+
+#Operasi Floor Division (//)
+hasil = A // B
+print(A,'%',B,'=',hasil)
+
