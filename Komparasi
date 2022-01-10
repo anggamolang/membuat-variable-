@@ -1,0 +1,20 @@
+#menghitung perbandingan di Python
+#>,<,<=,>=,==,!=,is,is not
+
+a=4
+b=2
+
+#perbandingan lebih besar (>)
+print('==================lebih besar(>)')
+hasil = a > 3
+print(a,'>',3,'=',hasil)         #hasil output akan bernilai true
+hasil = b > 3
+print(b,'>',3,'=',hasil)         #hasil output akan bernilai false
+
+#perbandingan lebih besar (<)
+print('==================lebih besar(>)')
+hasil = a < 3
+print(a,'<',3,'=',hasil)         #hasil output akan bernilai false
+hasil = b < 3
+print(b,'<',3,'=',hasil)         #hasil output akan bernilai true
+
